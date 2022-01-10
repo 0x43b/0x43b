@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0x43b
+- 👀 I’m interested in ... coding, mining, pos, pow, community projects. educational at best, and strictly academic.
+- 🌱 I’m currently learning ...python,css,solidity.
+- 💞️ I’m looking to collaborate on ...duinocoin, avr exclusive minable cryptos, sha1.
+- 📫 How to reach me ...TBD
